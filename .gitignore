@@ -1,0 +1,24 @@
+# Backend
+backend/__pycache__/
+backend/.env
+backend/.venv
+backend/venv
+*.pyc
+
+# Frontend
+node_modules/
+.next/
+.env
+.env.local
+.env.development
+.env.production
+npm-debug.log
+yarn-error.log
+
+# VSCode & system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# OS files
+*.swp
